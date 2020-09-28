@@ -23,7 +23,7 @@
    1. [Исследование данных](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Introduction%20to%20data%20analysis).
    2. [Исследование стат.взаимосвязей и линейной модели](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Research%20of%20statistical%20relationships).
    3. [Кластерный анализ](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Groups%20and%20Clasters).
-   4. [Исследование временных рядов(ожидается)]().
+   4. [Факторный анализ и прогнозирование](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Predictions).
 
 </details>
 
