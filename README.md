@@ -1,52 +1,52 @@
-### Всем привет! 
+### Hi all! 
 
-Меня зовут Алексей, я студент в университете ИТМО, программа "Программирование и интернет технологии". 
+i'm a second-year CS student at ITMO University.
 
-Областью своих интересов могу назвать Data Science, поэтому большая часть неуниверситетских проектов именно в этой сфере. 
+Interested in Data Science and CV. 
 
-Вы можете связаться со мной в tg: https://t.me/aogavrilov
+You can contact to me on tg: https://t.me/aogavrilov
 
 ---
-### Проекты:
+### Projects:
 
- <details><summary>Глубокое обучение(CV)</summary>
+ <details><summary>Deep Learning(CV)</summary>
 
-   1. [Бот по переносу стиля на изображение(cycleGAN, aiogram, GPU Cluster)](https://github.com/aogavrilov/P2SBot).
-   2. [Мультиперенос стилей на картинку(style transfer)](https://github.com/aogavrilov/CVModels/tree/master/Style%20and%20multiStyle%20Transfer).
-   3. [Смена времени года на картинке(cycleGAN)](https://github.com/aogavrilov/CVModels/tree/master/Summer2Winter).
-   4. [Исследование моделей и функций потерь в задаче сегментации мед.снимков](https://github.com/aogavrilov/CVModels/tree/master/Segmentation).
-
-</details>
-
- <details><summary>Анализ данных(Стат.методы)</summary>
-
-   1. [Исследование данных](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Introduction%20to%20data%20analysis).
-   2. [Исследование стат.взаимосвязей и линейной модели](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Research%20of%20statistical%20relationships).
-   3. [Кластерный анализ](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Groups%20and%20Clasters).
-   4. [Факторный анализ и прогнозирование](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Predictions).
+   1. [Bot for styletransfer(cycleGAN, aiogram, GPU Cluster)](https://github.com/aogavrilov/P2SBot).
+   2. [Multi style transfer(style transfer)](https://github.com/aogavrilov/CVModels/tree/master/Style%20and%20multiStyle%20Transfer).
+   3. [Season translation on pictures(cycleGAN)](https://github.com/aogavrilov/CVModels/tree/master/Summer2Winter).
+   4. [Reseach of models and losses in medical segmentation task](https://github.com/aogavrilov/CVModels/tree/master/Segmentation).
 
 </details>
 
- <details><summary>Машинное обучение</summary>
+ <details><summary>Data Analysis(Statistical methods)</summary>
 
-   1. [Хакатон по анализу данных(Агрегаты, работа с несбалансированной выборкой)](https://github.com/aogavrilov/hack1_mo).
+   1. [Data reseach](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Introduction%20to%20data%20analysis).
+   2. [Reseach of statistical relationships and linear models](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Research%20of%20statistical%20relationships).
+   3. [Cluster's analysis](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Groups%20and%20Clasters).
+   4. [Factor analysis and predictions](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Predictions).
 
 </details>
 
- <details><summary>Программирование</summary>
+ <details><summary>Machine Learning</summary>
 
-   1. [Редактор Метаинформации(mp3)](https://github.com/aogavrilov/ItmoProgrammingLabs/tree/master/MP3MetainformationEditor).
-   2. [Архиватор](https://github.com/aogavrilov/ItmoProgrammingLabs/tree/master/Archivator).
-   3. [Парсер INI файлов](https://github.com/aogavrilov/INIParser).
-   4. [Телеграм бот - расписание](https://github.com/aogavrilov/My-some-projects/tree/master/Telegram%20timetable%20bot).
-   5. [Нахождение и исправление опечаток с помощью редакторского расстояния](https://github.com/aogavrilov/ITMO-DigitalCulture/tree/master/FixMistakes).
-   6. [Анализ методов сжатия информации](https://github.com/aogavrilov/ITMO-DigitalCulture/tree/master/CompressionWithHaffman).
+   1. [Hackaton of fintech data analysis](https://github.com/aogavrilov/hack1_mo).
+
+</details>
+
+ <details><summary>Programming</summary>
+
+   1. [Metainformation editor(mp3)](https://github.com/aogavrilov/ItmoProgrammingLabs/tree/master/MP3MetainformationEditor).
+   2. [Archiver](https://github.com/aogavrilov/ItmoProgrammingLabs/tree/master/Archivator).
+   3. [INI Parser](https://github.com/aogavrilov/INIParser).
+   4. [Telegram bot - subjects timetable](https://github.com/aogavrilov/My-some-projects/tree/master/Telegram%20timetable%20bot).
+   5. [Finding and fixing mistakes by editorial distance](https://github.com/aogavrilov/ITMO-DigitalCulture/tree/master/FixMistakes).
+   6. [Analysis of information compression methods](https://github.com/aogavrilov/ITMO-DigitalCulture/tree/master/CompressionWithHaffman).
    
 </details>
 
 ---
 
-### Пройденные курсы:
-- Нейросети в области компьютерного зрения(DLS, MIPT)
+### Completed courses:
+- Neural networks in CV(DLS, MIPT)
 
-- Специализация по анализу данных(Coursera, NSU)
+- Specialization of data analysis(Coursera, NSU)
