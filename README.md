@@ -41,6 +41,7 @@ You can contact to me on tg: https://t.me/aogavrilov
    4. [Telegram bot - subjects timetable](https://github.com/aogavrilov/My-some-projects/tree/master/Telegram%20timetable%20bot).
    5. [Finding and fixing mistakes by editorial distance](https://github.com/aogavrilov/ITMO-DigitalCulture/tree/master/FixMistakes).
    6. [Analysis of information compression methods](https://github.com/aogavrilov/ITMO-DigitalCulture/tree/master/CompressionWithHaffman).
+   7. [Backups system](https://github.com/aogavrilov/Backups).
    
 </details>
 
