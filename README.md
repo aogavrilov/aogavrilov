@@ -1,6 +1,6 @@
-### Hi all! 
+### Hi All! 
 
-i'm a second-year CS student at ITMO University.
+I'm a second-year CS student at ITMO University.
 
 Interested in Data Science and CV. 
 
