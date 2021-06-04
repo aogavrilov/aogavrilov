@@ -5,7 +5,9 @@ I'm a second-year CS student at ITMO University.
 Interested in Data Science and CV. 
 
 You can contact to me on tg: https://t.me/aogavrilov
-
+---
+### Experience:
+- ML Engineering intern, Computer Vision at Mail.ru Group. Nov 2020 - May 2021
 ---
 ### Projects:
 
