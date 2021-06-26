@@ -6,6 +6,8 @@ Interested in DS and CV.
 
 You can contact to me on tg: https://t.me/aogavrilov
 
+Description will be updated at September
+
 ---
 ### Experience:
 - ML Engineering intern, Computer Vision at Mail.ru Group. Nov 2020 - May 2021
