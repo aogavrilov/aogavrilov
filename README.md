@@ -6,7 +6,7 @@ Interested in DS and CV.
 
 You can contact to me on tg: https://t.me/aogavrilov
 
-Description will be updated at September
+Actual on 2021
 
 ---
 ### Experience:
