@@ -1,58 +1,23 @@
-### Hi All! 
+# Alexey Gavrilov
 
-I'm a second-year CS student at ITMO University.
+Researcher at ITMO University working on discrete latent generative models, compressed text generation, and controllable software regeneration.
 
-Interested in DS and CV. 
+[Research website](https://aogavrilov.com/) · [Publications](https://aogavrilov.com/publications/) · [ORCID](https://orcid.org/0009-0006-3147-5430)
 
-You can contact to me on tg: https://t.me/aogavrilov
+## Selected publications
 
-Actual on 2021
+- **[Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization](https://aogavrilov.com/publications/where-quality-breaks/)** — a staged diagnostic that separates codec reconstruction loss from latent-generation loss. [DOI](https://doi.org/10.23919/FRUCT70069.2026.11506553)
+- **[Inspectable Control for Structure-Preserving Software Regeneration](https://aogavrilov.com/publications/inspectable-control/)** — hierarchical discrete latent controls for bounded code regeneration. [DOI](https://doi.org/10.1145/3803437.3807386)
 
----
-### Experience:
-- ML Engineering intern, Computer Vision at Mail.ru Group. Nov 2020 - May 2021
----
-### Projects:
+Each publication page provides the full abstract, method explanation, key results, limitations, local text-accessible manuscript, and citation files.
 
- <details><summary>Deep Learning(CV)</summary>
+## Research directions
 
-   1. [Bot for styletransfer(cycleGAN, aiogram, GPU Cluster)](https://github.com/aogavrilov/P2SBot).
-   2. [Multi style transfer(style transfer)](https://github.com/aogavrilov/CVModels/tree/master/Style%20and%20multiStyle%20Transfer).
-   3. [Season translation on pictures(cycleGAN)](https://github.com/aogavrilov/CVModels/tree/master/Summer2Winter).
-   4. [Reseach of models and losses in medical segmentation task](https://github.com/aogavrilov/CVModels/tree/master/Segmentation).
+- Discrete latent and compressed text generation
+- Diagnosing bottlenecks in multi-stage generative systems
+- Controllable, structure-preserving software regeneration
 
-</details>
+## Contact
 
- <details><summary>Data Analysis(Statistical methods)</summary>
-
-   1. [Data reseach](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Introduction%20to%20data%20analysis).
-   2. [Reseach of statistical relationships and linear models](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Research%20of%20statistical%20relationships).
-   3. [Cluster's analysis](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Groups%20and%20Clasters).
-   4. [Factor analysis and predictions](https://github.com/aogavrilov/My-some-projects/tree/master/Data%20analysis/NSU%20course/Predictions).
-
-</details>
-
- <details><summary>Machine Learning</summary>
-
-   1. [Hackaton of fintech data analysis](https://github.com/aogavrilov/hack1_mo).
-
-</details>
-
- <details><summary>Programming</summary>
-
-   1. [Metainformation editor(mp3)](https://github.com/aogavrilov/ItmoProgrammingLabs/tree/master/MP3MetainformationEditor).
-   2. [Archiver](https://github.com/aogavrilov/ItmoProgrammingLabs/tree/master/Archivator).
-   3. [INI Parser](https://github.com/aogavrilov/INIParser).
-   4. [Telegram bot - subjects timetable](https://github.com/aogavrilov/My-some-projects/tree/master/Telegram%20timetable%20bot).
-   5. [Finding and fixing mistakes by editorial distance](https://github.com/aogavrilov/ITMO-DigitalCulture/tree/master/FixMistakes).
-   6. [Analysis of information compression methods](https://github.com/aogavrilov/ITMO-DigitalCulture/tree/master/CompressionWithHaffman).
-   7. [Backups system](https://github.com/aogavrilov/Backups).
-   
-</details>
-
----
-
-### Completed courses:
-- Neural networks in CV(DLS, MIPT)
-
-- Specialization of data analysis(Coursera, NSU)
+- Website: https://aogavrilov.com/about/
+- Telegram: https://t.me/aogavrilov
