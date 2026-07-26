@@ -22,4 +22,6 @@ Each publication page provides the full abstract, method explanation, key result
 
 - Website: https://aogavrilov.com/about/
 - Telegram: https://t.me/aogavrilov
+
+## Site on other languages
 - 简体中文：[论文目录](https://aogavrilov.com/zh/publications/)
