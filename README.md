@@ -4,7 +4,6 @@ Researcher at ITMO University working on discrete latent generative models, comp
 
 [Research website](https://aogavrilov.com/) · [Publications](https://aogavrilov.com/publications/) · [ORCID](https://orcid.org/0009-0006-3147-5430)
 
-简体中文：[论文目录](https://aogavrilov.com/zh/publications/) · [《面向结构保持软件再生成的可检查控制方法》中文导读](https://aogavrilov.com/zh/publications/inspectable-control/)
 
 ## Selected publications
 
@@ -23,3 +22,4 @@ Each publication page provides the full abstract, method explanation, key result
 
 - Website: https://aogavrilov.com/about/
 - Telegram: https://t.me/aogavrilov
+- 简体中文：[论文目录](https://aogavrilov.com/zh/publications/)
