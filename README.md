@@ -5,13 +5,14 @@ Researcher at ITMO University working on discrete latent generative models, comp
 [Research website](https://aogavrilov.com/) · [Publications](https://aogavrilov.com/publications/) · [ORCID](https://orcid.org/0009-0006-3147-5430)
 
 ## Selected projects
-
-- **DiffusionGemma Agent** — local repository-aware coding agent
+- **[DiffusionGemma Agent](https://github.com/aogavrilov/diffusiongemma-agent)** — local repository-aware coding agent
   for Windows, WSL2 and 16 GB NVIDIA GPUs.
-- **ML Pipeline Auditors** — specialized agents for detecting bugs
+- **[ML Pipeline Auditors](https://github.com/aogavrilov/ml-pipeline-optimizer-auditor)** — specialized agents for detecting bugs
   and performance bottlenecks in ML pipelines.
-- **GeoLin Qwen** — training, quantization and evaluation pipeline
+- **[ML Pipeline Optimizer](https://github.com/aogavrilov/ml-pipeline-optimizer-auditor)** — specialized agents for optimizing perfomance in ML pipelines.
+- **[GeoLin Qwen](https://github.com/aogavrilov/qwen-geolin)** — training, quantization and evaluation pipeline
   for Qwen3-30B-A3B.
+
 
 ## Selected publications
 
