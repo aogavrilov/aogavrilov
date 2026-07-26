@@ -4,6 +4,8 @@ Researcher at ITMO University working on discrete latent generative models, comp
 
 [Research website](https://aogavrilov.com/) · [Publications](https://aogavrilov.com/publications/) · [ORCID](https://orcid.org/0009-0006-3147-5430)
 
+简体中文：[论文目录](https://aogavrilov.com/zh/publications/) · [《面向结构保持软件再生成的可检查控制方法》中文导读](https://aogavrilov.com/zh/publications/inspectable-control/)
+
 ## Selected publications
 
 - **[Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization](https://aogavrilov.com/publications/where-quality-breaks/)** — a staged diagnostic that separates codec reconstruction loss from latent-generation loss. [DOI](https://doi.org/10.23919/FRUCT70069.2026.11506553)
