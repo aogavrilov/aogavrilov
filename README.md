@@ -16,10 +16,10 @@ Researcher at ITMO University working on discrete latent generative models, comp
 
 ## Selected publications
 
-- **[Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization](https://aogavrilov.com/publications/where-quality-breaks/)** — a staged diagnostic that separates codec reconstruction loss from latent-generation loss. [DOI](https://doi.org/10.23919/FRUCT70069.2026.11506553) · [简体中文](https://aogavrilov.com/zh/publications/where-quality-breaks/)
-- **[Inspectable Control for Structure-Preserving Software Regeneration](https://aogavrilov.com/publications/inspectable-control/)** — hierarchical discrete latent controls for bounded code regeneration. [DOI](https://doi.org/10.1145/3803437.3807386) · [简体中文](https://aogavrilov.com/zh/publications/inspectable-control/)
+- **[Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization](https://aogavrilov.com/publications/where-quality-breaks/)** — a staged diagnostic that separates codec reconstruction loss from latent-generation loss. [DOI](https://doi.org/10.23919/FRUCT70069.2026.11506553) · [Result summary](https://huggingface.co/datasets/aogavrilov/where-quality-breaks-results) · [简体中文](https://aogavrilov.com/zh/publications/where-quality-breaks/)
+- **[Inspectable Control for Structure-Preserving Software Regeneration](https://aogavrilov.com/publications/inspectable-control/)** — hierarchical discrete latent controls for bounded code regeneration. [DOI](https://doi.org/10.1145/3803437.3807386) · [Result summary](https://huggingface.co/datasets/aogavrilov/inspectable-control-results) · [简体中文](https://aogavrilov.com/zh/publications/inspectable-control/)
 
-Each publication page provides the full abstract, method explanation, key results, limitations, local text-accessible manuscript, and citation files.
+Each publication page provides the full abstract, method explanation, key results, limitations, local text-accessible manuscript, and citation files. The public [result-summary collection](https://huggingface.co/collections/aogavrilov/publication-result-summaries-6a6b733b3116a87befb37ec2) mirrors only the reported tables and citations; it is not a release of the underlying corpora, implementation code, or checkpoints.
 
 ## Research guides
 
