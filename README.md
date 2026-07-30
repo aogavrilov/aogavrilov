@@ -16,20 +16,21 @@ Researcher at ITMO University working on discrete latent generative models, comp
 
 ## Selected publications
 
-- **[Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization](https://aogavrilov.com/publications/where-quality-breaks/)** — a staged diagnostic that separates codec reconstruction loss from latent-generation loss. [DOI](https://doi.org/10.23919/FRUCT70069.2026.11506553) · [Result summary](https://huggingface.co/datasets/aogavrilov/where-quality-breaks-results) · [简体中文](https://aogavrilov.com/zh/publications/where-quality-breaks/)
-- **[Inspectable Control for Structure-Preserving Software Regeneration](https://aogavrilov.com/publications/inspectable-control/)** — hierarchical discrete latent controls for bounded code regeneration. [DOI](https://doi.org/10.1145/3803437.3807386) · [Result summary](https://huggingface.co/datasets/aogavrilov/inspectable-control-results) · [简体中文](https://aogavrilov.com/zh/publications/inspectable-control/)
+- **[Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization](https://aogavrilov.com/publications/where-quality-breaks/)** — a staged diagnostic that separates codec reconstruction loss from latent-generation loss. [DOI](https://doi.org/10.23919/FRUCT70069.2026.11506553) · [Result summary](https://huggingface.co/datasets/aogavrilov/where-quality-breaks-results) · [Русский](https://aogavrilov.com/ru/publications/where-quality-breaks/) · [简体中文](https://aogavrilov.com/zh/publications/where-quality-breaks/)
+- **[Inspectable Control for Structure-Preserving Software Regeneration](https://aogavrilov.com/publications/inspectable-control/)** — hierarchical discrete latent controls for bounded code regeneration. [DOI](https://doi.org/10.1145/3803437.3807386) · [Result summary](https://huggingface.co/datasets/aogavrilov/inspectable-control-results) · [Русский](https://aogavrilov.com/ru/publications/inspectable-control/) · [简体中文](https://aogavrilov.com/zh/publications/inspectable-control/)
 
 Each publication page provides the full abstract, method explanation, key results, limitations, local text-accessible manuscript, and citation files. The public [result-summary collection](https://huggingface.co/collections/aogavrilov/publication-result-summaries-6a6b733b3116a87befb37ec2) mirrors only the reported tables and citations; it is not a release of the underlying corpora, implementation code, or checkpoints.
 
 ## Research guides
 
-- **[Diagnosing codec vs generator bottlenecks](https://aogavrilov.com/projects/codec-bottleneck-diagnosis/)** — stage-consistent evaluation for compressed and discrete-latent text generation.
-- **[Controllable code editing without whole-program regeneration](https://aogavrilov.com/projects/discrete-latent-generation/)** — preservation boundaries, edit locality, and hierarchical discrete latent control.
+- **[Diagnosing codec vs generator bottlenecks](https://aogavrilov.com/projects/codec-bottleneck-diagnosis/)** — stage-consistent evaluation for compressed and discrete-latent text generation. [Русский](https://aogavrilov.com/ru/projects/codec-bottleneck-diagnosis/) · [简体中文](https://aogavrilov.com/zh/projects/codec-bottleneck-diagnosis/)
+- **[Controllable code editing without whole-program regeneration](https://aogavrilov.com/projects/discrete-latent-generation/)** — preservation boundaries, edit locality, and hierarchical discrete latent control. [Русский](https://aogavrilov.com/ru/projects/discrete-latent-generation/) · [简体中文](https://aogavrilov.com/zh/projects/discrete-latent-generation/)
 
 ## Contact
 
 - Website: https://aogavrilov.com/about/
 - Telegram: https://t.me/aogavrilov
 
-## Site on other languages
-- 简体中文：[论文目录](https://aogavrilov.com/zh/publications/)
+## Other languages
+- Русский: [публикации](https://aogavrilov.com/ru/publications/) · [исследовательские руководства](https://aogavrilov.com/ru/projects/)
+- 简体中文：[论文目录](https://aogavrilov.com/zh/publications/) · [研究指南](https://aogavrilov.com/zh/projects/)
