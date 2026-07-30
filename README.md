@@ -21,11 +21,10 @@ Researcher at ITMO University working on discrete latent generative models, comp
 
 Each publication page provides the full abstract, method explanation, key results, limitations, local text-accessible manuscript, and citation files.
 
-## Research directions
+## Research guides
 
-- Discrete latent and compressed text generation
-- Diagnosing bottlenecks in multi-stage generative systems
-- Controllable, structure-preserving software regeneration
+- **[Diagnosing codec vs generator bottlenecks](https://aogavrilov.com/projects/codec-bottleneck-diagnosis/)** — stage-consistent evaluation for compressed and discrete-latent text generation.
+- **[Controllable code editing without whole-program regeneration](https://aogavrilov.com/projects/discrete-latent-generation/)** — preservation boundaries, edit locality, and hierarchical discrete latent control.
 
 ## Contact
 
