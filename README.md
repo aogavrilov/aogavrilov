@@ -27,6 +27,17 @@ Each publication page provides the full abstract, method explanation, key result
 - **[Controllable code editing without whole-program regeneration](https://aogavrilov.com/projects/discrete-latent-generation/)** — preservation boundaries, edit locality, and hierarchical discrete latent control. [Русский](https://aogavrilov.com/ru/projects/discrete-latent-generation/) · [简体中文](https://aogavrilov.com/zh/projects/discrete-latent-generation/)
 - **[Focused research notes](https://aogavrilov.com/research-notes/)** — evidence-bounded answers for problem-first searches, with explicit procedures, sources, and limitations.
 
+<details>
+<summary>Focused research questions</summary>
+
+- [How to compare code-space vs token-space masked diffusion](https://aogavrilov.com/research-notes/code-space-vs-token-space-masked-diffusion/)
+- [Localized code modification without whole-function rewriting](https://aogavrilov.com/research-notes/localized-code-modification-generative-models/)
+- [What constrained code generation actually guarantees](https://aogavrilov.com/research-notes/constrained-code-generation-software-engineering/)
+- [Evidence for AI-assisted refactoring](https://aogavrilov.com/research-notes/ai-assisted-refactoring-evidence/)
+- [Preservation contracts for predictable code generation](https://aogavrilov.com/research-notes/predictable-code-generation-preservation-contract/)
+
+</details>
+
 ## Contact
 
 - Website: https://aogavrilov.com/about/
