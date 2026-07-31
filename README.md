@@ -25,6 +25,7 @@ Each publication page provides the full abstract, method explanation, key result
 
 - **[Diagnosing codec vs generator bottlenecks](https://aogavrilov.com/projects/codec-bottleneck-diagnosis/)** — stage-consistent evaluation for compressed and discrete-latent text generation. [Русский](https://aogavrilov.com/ru/projects/codec-bottleneck-diagnosis/) · [简体中文](https://aogavrilov.com/zh/projects/codec-bottleneck-diagnosis/)
 - **[Controllable code editing without whole-program regeneration](https://aogavrilov.com/projects/discrete-latent-generation/)** — preservation boundaries, edit locality, and hierarchical discrete latent control. [Русский](https://aogavrilov.com/ru/projects/discrete-latent-generation/) · [简体中文](https://aogavrilov.com/zh/projects/discrete-latent-generation/)
+- **[Focused research notes](https://aogavrilov.com/research-notes/)** — evidence-bounded answers for problem-first searches, with explicit procedures, sources, and limitations.
 
 ## Contact
 
