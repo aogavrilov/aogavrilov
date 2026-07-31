@@ -23,8 +23,8 @@ Each publication page provides the full abstract, method explanation, key result
 
 ## Research guides
 
-- **[Diagnosing codec vs generator bottlenecks](https://aogavrilov.com/projects/codec-bottleneck-diagnosis/)** — stage-consistent evaluation for compressed and discrete-latent text generation. [Русский](https://aogavrilov.com/ru/projects/codec-bottleneck-diagnosis/) · [简体中文](https://aogavrilov.com/zh/projects/codec-bottleneck-diagnosis/)
-- **[Controllable code editing without whole-program regeneration](https://aogavrilov.com/projects/discrete-latent-generation/)** — preservation boundaries, edit locality, and hierarchical discrete latent control. [Русский](https://aogavrilov.com/ru/projects/discrete-latent-generation/) · [简体中文](https://aogavrilov.com/zh/projects/discrete-latent-generation/)
+- **[Diagnosing codec vs generator bottlenecks](https://aogavrilov.com/projects/codec-bottleneck-diagnosis/)** — stage-consistent evaluation for compressed and discrete-latent text generation. [Русский](https://aogavrilov.com/ru/projects/codec-bottleneck-diagnosis/) · [简体中文](https://aogavrilov.com/zh/projects/codec-bottleneck-diagnosis/) · [한국어](https://aogavrilov.com/ko/projects/codec-bottleneck-diagnosis/)
+- **[Controllable code editing without whole-program regeneration](https://aogavrilov.com/projects/discrete-latent-generation/)** — preservation boundaries, edit locality, and hierarchical discrete latent control. [Русский](https://aogavrilov.com/ru/projects/discrete-latent-generation/) · [简体中文](https://aogavrilov.com/zh/projects/discrete-latent-generation/) · [한국어](https://aogavrilov.com/ko/projects/discrete-latent-generation/)
 - **[Focused research notes](https://aogavrilov.com/research-notes/)** — evidence-bounded answers for problem-first searches, with explicit procedures, sources, and limitations.
 
 <details>
@@ -46,4 +46,4 @@ Each publication page provides the full abstract, method explanation, key result
 ## Other languages
 - Русский: [публикации](https://aogavrilov.com/ru/publications/) · [исследовательские руководства](https://aogavrilov.com/ru/projects/)
 - 简体中文：[论文目录](https://aogavrilov.com/zh/publications/) · [研究指南](https://aogavrilov.com/zh/projects/)
-- 한국어: [논문 안내](https://aogavrilov.com/ko/publications/) · [연구 홈](https://aogavrilov.com/ko/)
+- 한국어: [논문 안내](https://aogavrilov.com/ko/publications/) · [연구 안내](https://aogavrilov.com/ko/projects/)
